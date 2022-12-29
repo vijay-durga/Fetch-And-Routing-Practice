@@ -1,0 +1,46 @@
+.bg-cont {
+  width: 800px;
+  height: 350px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  font-family: 'Roboto';
+  border: #d3d3d3 1px solid;
+  margin: auto;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+
+.image {
+  height: 250px;
+  width: 300px;
+  margin-right: 50px;
+  border-radius: 15px;
+}
+
+.aut-img-cont {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.avatarUrl {
+  border-radius: 50px;
+  height: 35px;
+  width: 35px;
+  margin-right: 15px;
+}
+
+.para {
+  color: #8e8e8e;
+}
+
+.head {
+  color: #000000;
+  font-size: 22px;
+}
+
+.link-cont {
+  text-decoration: none;
+}

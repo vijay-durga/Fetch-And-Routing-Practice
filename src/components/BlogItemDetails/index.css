@@ -1,0 +1,36 @@
+.blog-container {
+  width: 800px;
+  height: 850px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  font-family: 'Roboto';
+  border: #d3d3d3 1px solid;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+
+.author-details {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.author-pic {
+  border-radius: 50px;
+  height: 35px;
+  width: 35px;
+  margin-right: 15px;
+}
+
+.blog-image {
+  height: 400px;
+  width: 750px;
+}
+
+.blog-content {
+  color: #2f4f4f;
+  font-family: 'Roboto';
+  font-size: 22px;
+}
